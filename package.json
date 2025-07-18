@@ -1,0 +1,15 @@
+{
+  "name": "currencyh",
+  "version": "1.0.0",
+  "description": "currency 4 H",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "reiuyuu <reiuyuu@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.52.0"
+  }
+}
